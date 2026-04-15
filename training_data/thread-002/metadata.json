@@ -1,0 +1,33 @@
+{
+  "id": "thread-002",
+  "subject": "Fwd: FW: [CNCB SMT CI] Lazada Dec '24 update",
+  "date": "2024-12-11",
+  "deck_filename": "Lazada_update_202412.pdf",
+  "deck_topic_tags": ["competitive-intelligence", "lazada", "cross-border", "sku-coverage", "pricing"],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Shuning Wang",
+    "responders": ["Nicholas Lim", "Keith Huang", "Cuiwei Sun", "Tina Lee", "Jules Zhao", "Keljin Chua"]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Shuning Wang",
+      "type": "initial_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "their sku # is much more than us, can prioritize the crawling with Keith"
+        },
+        {
+          "question_id": "Q2",
+          "question": "have we run some test buy with Tina/Jules, want to see their lead time, and so called 'retail' mode, how to handle rr/rts?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "have we compared price with their skus? if not, can Keith do matching and price check?"
+        }
+      ]
+    }
+  ]
+}

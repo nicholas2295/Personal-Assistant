@@ -1,0 +1,32 @@
+{
+  "total_threads": 2,
+  "date_range": {
+    "from": "2024-10-15",
+    "to": "2024-12-11"
+  },
+  "all_tags": [
+    "competitive-intelligence",
+    "cross-border",
+    "lazada",
+    "marketplace",
+    "my-sg",
+    "pricing",
+    "sku-coverage"
+  ],
+  "threads": [
+    {
+      "id": "thread-001",
+      "subject": "Fwd: MY & SG CB Monthly Update 20241015",
+      "date": "2024-10-15",
+      "tags": ["marketplace", "cross-border", "pricing", "sku-coverage", "my-sg"],
+      "num_turns": 1
+    },
+    {
+      "id": "thread-002",
+      "subject": "Fwd: FW: [CNCB SMT CI] Lazada Dec '24 update",
+      "date": "2024-12-11",
+      "tags": ["competitive-intelligence", "lazada", "cross-border", "sku-coverage", "pricing"],
+      "num_turns": 1
+    }
+  ]
+}

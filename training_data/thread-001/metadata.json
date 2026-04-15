@@ -1,0 +1,66 @@
+{
+  "id": "thread-001",
+  "subject": "Fwd: MY & SG CB Monthly Update 20241015",
+  "date": "2024-10-15",
+  "deck_filename": "MY_SG_CB_Monthly_Update_20241015.pdf",
+  "deck_topic_tags": ["marketplace", "cross-border", "pricing", "sku-coverage", "my-sg"],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Shuning Wang",
+    "responders": ["Sweechen Ng", "Yu Zhang", "Jayne Teo Wilin", "Joe Li", "Nicholas Lim"]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Shuning Wang",
+      "type": "initial_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Do not quite understand how to read these slides. Maybe can go through later. I need to understand the following",
+          "slide_reference": "Slide 44 – 45"
+        },
+        {
+          "question_id": "Q2",
+          "question": "What is the % of MY local ADO do we have published in SG right now",
+          "slide_reference": "Slide 44 – 45"
+        },
+        {
+          "question_id": "Q3",
+          "question": "What is the max % of MY local ADO we can reach, and the various reasons on how we are unable to reach 100%",
+          "slide_reference": "Slide 44 – 45"
+        },
+        {
+          "question_id": "Q4",
+          "question": "And timeline to reach the max %..",
+          "slide_reference": "Slide 44 – 45"
+        },
+        {
+          "question_id": "Q5",
+          "question": "I find it hard to understand this table.",
+          "slide_reference": "Slide 47"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Can start with USD 10 as listing price for MY product and what current listing price in SG would look like and what listing price in SG would look like in new proposal?",
+          "slide_reference": "Slide 47"
+        },
+        {
+          "question_id": "Q7",
+          "question": "And I would like to understand the markup % of each component to understand how to reach listing price in SG. And how the markup % will change in both your proposal..",
+          "slide_reference": "Slide 47"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Why do we want to do this? To drive ADO growth at the sacrifice of P&L?",
+          "slide_reference": "Slide 50"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Feels like we need to better understand what is affecting the price competitiveness of MYSIP SKUs?",
+          "slide_reference": "Slide 50"
+        }
+      ]
+    }
+  ]
+}
