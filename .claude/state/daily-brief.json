@@ -1,8 +1,8 @@
 {
   "version": 1,
   "timezone": "Asia/Singapore",
-  "last_briefing_at": "2026-04-15T11:05:00+08:00",
-  "last_successful_run_at": "2026-04-15T11:05:00+08:00",
-  "last_briefing_file": "briefings/2026-04-15.md",
+  "last_briefing_at": "2026-04-17T10:00:00+08:00",
+  "last_successful_run_at": "2026-04-17T10:00:00+08:00",
+  "last_briefing_file": "briefings/2026-04-17.md",
   "notes": ""
 }
